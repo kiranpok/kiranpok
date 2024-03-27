@@ -1,4 +1,4 @@
-<h1>Hello, I'm Kiran Pokharel! <h4>I'm a healthcare professional turned IT enthusiast with a passion for improving patient care through technology. With extensive experience in nursing and ongoing studies InformationTechnology, I'm eager to combine my skills to develop innovative solutions inthe health technology field. </h4>
+<h1>Hello, I'm Kiran Pokharel. <h4>I'm a healthcare professional turned IT enthusiast with a passion for improving patient care through technology. With extensive experience in nursing and ongoing studies InformationTechnology, I'm eager to combine my skills to develop innovative solutions inthe health technology field. </h4>
 
 <h2>👨‍💻 Software Projects</h2>
 

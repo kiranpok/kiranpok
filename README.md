@@ -1,11 +1,30 @@
-### Hi there 👋
+<h1>Hello, I'm Kiran Pokharel! <h3> <a href="https://www.linkedin.com/in/kiran-pokharel-6930b4116/">(Connect with me in Linkedin) </a></h3>
+
+<h2>👨‍💻 Software Projects</h2>
+
+- <b>Full Stack Web App(MERN: MongoDb, Express, React, NodeJS)</b>
+  - [Fitness_First_App](https://github.com/kiranpok/Fitness_First_Merged)
+- <b>Python</b>
+  - Updating soon
+- <b>Java</b>
+  - Updating soon
+  <h2> 🔭 I’m currently working on Localization of my fitness App.</h2>
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://www.linkedin.com/in/kiran-pokharel-6930b4116
 
 <!--
-**kiranpok/kiranpok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

@@ -1,4 +1,4 @@
-<h1>Hello, I'm Kiran Pokharel! <h3> <a href="https://www.linkedin.com/in/kiran-pokharel-6930b4116/">(Connect with me in Linkedin) </a></h3>
+<h1>Hello, I'm Kiran Pokharel! 
 
 <h2>👨‍💻 Software Projects</h2>
 

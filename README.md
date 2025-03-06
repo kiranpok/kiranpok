@@ -3,6 +3,11 @@
 <h2>👨‍💻 Data Analysis Projects</h2>
  -<b>frequency-domain ECG data for exploring dangerous arrhythmias</b>
  - [ECG_XML_Project](https://github.com/kiranpok/ECG_XML_Project.git)
+
+ <h2>👨‍💻 Data Analysis Projects</h2>
+
+- <b>frequency-domain ECG data for exploring dangerous arrhythmias</b>
+  - [ECG_XML_Project](https://github.com/kiranpok/ECG_XML_Project.git)
  
 
 <h2>👨‍💻 Software Projects</h2>

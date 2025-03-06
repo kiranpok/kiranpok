@@ -1,5 +1,7 @@
 <h1>Hello, I'm Kiran Pokharel. <h4>I'm a healthcare professional turned IT enthusiast with a passion for improving patient care through technology. With extensive experience in nursing and ongoing studies Information Technology, I'm eager to combine my skills to develop innovative solutions in the health technology field. </h4>
 
+<h2>👨‍💻 Data Analysis Projects</h2>
+
 <h2>👨‍💻 Software Projects</h2>
 
 - <b>Full Stack Web App(MERN: MongoDb, Express, React, NodeJS)</b>

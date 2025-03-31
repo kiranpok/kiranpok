@@ -3,7 +3,7 @@
 
  <h2>👨‍💻 Data Analysis Projects</h2>
  
-- <b>Frequency-domain ECG data analysis for exploring dangerous arrhythmias</b>
+- <b>Internship, Data Science (Analytics), 2025 for Wolt</b>
    - [Wolt data analysis tasks](https://github.com/kiranpok/Wolt-data-analysis-assignment.git)
 
 - <b>Frequency-domain ECG data analysis for exploring dangerous arrhythmias</b>

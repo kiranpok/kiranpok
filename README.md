@@ -2,6 +2,9 @@
 
 
  <h2>👨‍💻 Data Analysis Projects</h2>
+ 
+- <b>Frequency-domain ECG data analysis for exploring dangerous arrhythmias</b>
+   - [Wolt data analysis tasks](https://github.com/kiranpok/Wolt-data-analysis-assignment.git)
 
 - <b>Frequency-domain ECG data analysis for exploring dangerous arrhythmias</b>
   - [ECG_XML_Project](https://github.com/kiranpok/ECG_XML_Project.git)
